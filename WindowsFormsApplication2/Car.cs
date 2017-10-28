@@ -8,6 +8,5 @@ namespace WindowsFormsApplication2
 {
     class Car
     {
-
     }
 }
